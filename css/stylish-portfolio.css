@@ -256,7 +256,15 @@ footer {
     margin-bottom: 45px;
 }
 
-@media (min-width: 768px) {
+#facebook {
+    color: #3b5998;
+}
+
+#mail {
+    color: #005000;
+}
+
+@media(min-width: 768px) {
     #header-panel {
         width: 600px;
     }
